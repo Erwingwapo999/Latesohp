@@ -64,7 +64,7 @@ EOF
 
 # Setup ohpserver
 echo 'Installing ohpserver...'
-wget https://raw.githubusercontent.com/stein-dev/reconnection-timer/main/ohpserver
+wget https://github.com/Erwingwapo999/Latesohp/raw/main/ohpserver
 mv ohpserver /usr/local/bin/ohpserver-ssh
 chmod 755 /usr/local/bin/ohpserver-ssh
 
